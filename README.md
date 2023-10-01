@@ -1,6 +1,6 @@
 ---
-description: Sample Page title
+description: Page title
 ---
 
-# Page
+# About
 
